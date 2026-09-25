@@ -1,4 +1,6 @@
-  namespace AirProperties {
+//version-2366ba214ec740ca
+
+namespace AirProperties {
          inline constexpr uintptr_t AirDensity = 0x18;
          inline constexpr uintptr_t GlobalWind = 0x3c;
     }
