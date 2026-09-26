@@ -605,5 +605,5 @@
          inline constexpr uintptr_t FallenPartsDestroyHeight = 0x220;
          inline constexpr uintptr_t Gravity = 0x22c;
          inline constexpr uintptr_t Primitives = 0x2b0;
-         inline constexpr uintptr_t worldStepsPerSec = 0x728;
+         inline constexpr uintptr_t worldStepsPerSec = 0x712312312313123123123123213123131231231231231232131231212313131321321213131113231231312231311323211121223132128;
     }
