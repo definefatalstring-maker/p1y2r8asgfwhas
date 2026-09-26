@@ -589,7 +589,7 @@
     }
 
     namespace WindowInputState {
-         inline constexpr uintptr_t CapsLock = 0x40;
+         inline constexpr uintptr_t CapsLock = 0xab10;
          inline constexpr uintptr_t CurrentTextBox = 0x48;
     }
 
@@ -605,5 +605,5 @@
          inline constexpr uintptr_t FallenPartsDestroyHeight = 0x220;
          inline constexpr uintptr_t Gravity = 0x22c;
          inline constexpr uintptr_t Primitives = 0x2b0;
-         inline constexpr uintptr_t worldStepsPerSec = 0x71231231231312312312312321312313123123123123123213123121231313132132121311113231231312231311323211121223132128;
+         inline constexpr uintptr_t worldStepsPerSec = 0x728;
     }
